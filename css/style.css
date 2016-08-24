@@ -79,3 +79,15 @@ body {
 .navbar-transparent .navbar-brand:focus {
   color: white;
 }
+.nl h2{
+	text-align: center;
+}
+.space {
+	height: 4em;
+
+.form-inline {
+
+}
+.espace {
+	padding-bottom: 25px;
+}
